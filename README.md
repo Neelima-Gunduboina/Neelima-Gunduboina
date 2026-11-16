@@ -45,11 +45,14 @@ End-to-end fund transfer and bill payment flows with balance reconciliation.
 
 Playwright + TypeScript framework for the same banking app, covering UI, API, visual regression and accessibility (WCAG 2.1 AA) tests across Chromium, Firefox and WebKit. It also adds Claude-powered GenAI tooling with a human review step: self-healing locators, test generation from requirements, and AI triage of CI failures. Includes a [WCAG 2.1 AA accessibility audit](https://github.com/Neelima-Gunduboina/ai-banking-qa-portfolio/blob/main/docs/accessibility-findings.md) of the bank (7 issues).
 
-### [neelima-my-learning](https://github.com/Neelima-Gunduboina/neelima-my-learning)
-[![CI](https://github.com/Neelima-Gunduboina/neelima-my-learning/actions/workflows/ci.yml/badge.svg)](https://github.com/Neelima-Gunduboina/neelima-my-learning/actions/workflows/ci.yml)
+---
 
-- **selenium-testng-practice**: Selenium WebDriver practice as a Maven + TestNG + POM project covering locator strategies, implicit/explicit/fluent waits, assertions, dropdowns and data-driven negative tests (21 tests)
-- **java-basics**: core Java (OOP, collections, streams, exceptions), classic programs and a Student Management mini-project (70 JUnit 5 tests)
+## Currently Learning
+
+I'm working toward a Quality Engineer / SDET role in financial services.
+
+- **Now:** automation fundamentals from a blank file: Java, Selenium + POM, REST Assured, SQL and test design, then Docker, framework design, CI and Playwright
+- **Next:** Python for testers and testing LLM applications: evaluation, agents and MCP
 
 ---
 
